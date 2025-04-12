@@ -116,11 +116,11 @@ img {
     color: darkblue;
 }
 body {
-    background-color: sandybrown;
+    background-color: antiquewhite;
 }
 @media screen and (max-width: 800px) {
     body {
-        background-color: teal;
+        background-color: ghostwhite;
         color: black;
     }
     .form {
