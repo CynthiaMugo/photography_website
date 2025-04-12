@@ -4,7 +4,7 @@
 ## Description
 PhotographyWebsite is a simple, visually-driven site created to showcase my photography portfolio. It features a clean photo gallery of my previous work which clients can view and contact information.
 
-Designed for clients looking foe photographers for events, hiking trail comapanions, and outdoors photographer the site provides an accessible, user-friendly overview of previous works. With a fully responsive layout, it works smoothly on both desktop and mobile devices.
+Designed for clients looking foe photographers for events, hiking trail comapanions, and outdoors photographer the site provides an accessible, user-friendly overview of previous works. With a fully responsive layout, it works smoothly on both desktop and mobile devices. It provides a form for users to request services.
 ## Setup/Installation Requirements
 * You can run the project by cloning it from GitHub:
 * Open the project folder in Visual Studio Code (or any code editor)

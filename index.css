@@ -39,23 +39,23 @@ a:hover {
     justify-content: space-evenly;
 }
 img {
-    width: 487px;
+    width: 498px;
     height: 550px;
 }
 .column {
     border: px solid darkblue;
-    padding: 70px;
+    padding: 50px;
     margin: 10px;
 }
 .column img{
     float: left;
-    margin: 20px;
+    margin: 15px;
     width: 350px;
     height: 350px;
     border-radius: 50%; 
 }
 .column p {
-    font-size: 25px;
+    font-size: 28px;
     font-style: italic;
 }
 .form {
@@ -76,7 +76,7 @@ img {
 .form input[type=submit] {
     width: 100%;
     background-color: darkgrey;
-    color: whitesmoke;
+    color: blanchedalmond;
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
@@ -116,7 +116,7 @@ img {
     color: darkblue;
 }
 body {
-    background-color: gainsboro;
+    background-color: sandybrown;
 }
 @media screen and (max-width: 800px) {
     body {
