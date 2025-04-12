@@ -32,7 +32,7 @@ a:hover {
 
 .image {
     display: flex;
-    gap: 20px;
+    gap: 5px;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
@@ -58,7 +58,7 @@ img {
 }
 .form {
     margin-left: 500px;
-    border: 1px solid darkblue;
+    border: px solid darkblue;
     border-radius: 10px;
     padding: 20px;
     margin-right: 520px;
@@ -67,5 +67,5 @@ img {
     margin-top: px;
 }
 body {
-    background-color: aqua;
+    background-color: burlywood;
 }
