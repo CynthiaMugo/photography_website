@@ -1,7 +1,7 @@
 .navbar {
     width: 99vw;
     border: 1px white;
-    background-color: whitesmoke;
+    background-color: antiquewhite;
     border-radius: 10px;
     position: fixed;
     top: 0;
@@ -106,7 +106,7 @@ img {
   }
 .footer {
     border: px solid darkblue;
-    background-color: ghostwhite;
+    background-color: darkgrey;
     margin-top: 20px;
     height: 50px;
     border-radius: 7px;
@@ -116,7 +116,7 @@ img {
     color: darkblue;
 }
 body {
-    background-color: sandybrown;
+    background-color: antiquewhite;
 }
 @media screen and (max-width: 800px) {
     body {
