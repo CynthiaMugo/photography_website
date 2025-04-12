@@ -1,7 +1,7 @@
 .navbar {
     width: 99vw;
     border: 1px white;
-    background-color: tealg;
+    background-color: antiquewhite;
     border-radius: 10px;
     position: fixed;
     top: 0;
@@ -116,15 +116,18 @@ img {
     color: darkblue;
 }
 body {
-    background-color: teal;
+    background-color: gainsboro;
 }
 @media screen and (max-width: 800px) {
     body {
-        background-color: gainsboro;
+        background-color: teal;
         color: black;
     }
     .form {
         margin-left: 50px;
         margin-right: 100px;
+    }
+    .navbar {
+        background-color: antiquewhite;
     }
 }
