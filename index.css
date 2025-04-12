@@ -1,7 +1,7 @@
 .navbar {
     width: 99vw;
     border: 1px white;
-    background-color: antiquewhite;
+    background-color: tealg;
     border-radius: 10px;
     position: fixed;
     top: 0;
@@ -116,7 +116,7 @@ img {
     color: darkblue;
 }
 body {
-    background-color: antiquewhite;
+    background-color: teal;
 }
 @media screen and (max-width: 800px) {
     body {
