@@ -40,3 +40,25 @@ img {
     width: 487px;
     height: 550px;
 }
+.column {
+    border: 1px solid darkblue;
+    padding: 50px;
+    margin: 20px;
+}
+.column img{
+    float: left;
+    margin: 20px;
+    width: 400px;
+    height: 350px;
+    border-radius: 50%; 
+}
+.column p {
+    font-size: 25px;
+}
+.form {
+    margin: px;
+    align-items: center;
+}
+.footer {
+    margin-top: 1550px;
+}
