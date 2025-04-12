@@ -23,8 +23,9 @@ a:hover {
     margin-top: 50px;
     text-align: center;
     font-size: x-large;
-    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
+    color: slategray;
 }
 .intro {
     text-align: center;
@@ -129,5 +130,8 @@ body {
     }
     .navbar {
         background-color: antiquewhite;
+    }
+    .header {
+        color: darkslategray;
     }
 }
