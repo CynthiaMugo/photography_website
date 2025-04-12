@@ -45,7 +45,7 @@ img {
 .column {
     border: px solid darkblue;
     padding: 70px;
-    margin: 20px;
+    margin: 10px;
 }
 .column img{
     float: left;
@@ -59,9 +59,9 @@ img {
     font-style: italic;
 }
 .form {
-    margin-left: 400px;
-    padding: 20px;
-    margin-right: 520px;
+    margin-left: 500px;
+    padding: 10px;
+    margin-right: 400px;
 }
 .form input[type=text], select {
     width: 100%;
