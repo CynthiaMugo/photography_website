@@ -120,7 +120,11 @@ body {
 }
 @media screen and (max-width: 800px) {
     body {
-        background-color: gray;
+        background-color: sandybrown;
         color: black;
+    }
+    .form {
+        margin-left: 50px;
+        margin-right: 100px;
     }
 }
