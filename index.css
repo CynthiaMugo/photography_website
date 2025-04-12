@@ -71,10 +71,11 @@ img {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    background-color: darkgray;
   }  
 .form input[type=submit] {
     width: 100%;
-    background-color: gold;
+    background-color: darkgrey;
     color: whitesmoke;
     padding: 14px 20px;
     margin: 8px 0;
@@ -90,6 +91,7 @@ img {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    background-color: darkgrey;
 }
 .form textarea {
     width: 100%;
@@ -98,15 +100,15 @@ img {
     box-sizing: border-box;
     border: 2px solid #ccc;
     border-radius: 4px;
-    background-color: #f8f8f8;
     font-size: 16px;
     resize: none;
+    background-color:darkgrey;
   }
 .footer {
-    border: 1px solid darkblue;
-    background-color: beige;
+    border: px solid darkblue;
+    background-color: ghostwhite;
     margin-top: 20px;
-    height: 100px;
+    height: 50px;
     border-radius: 7px;
     display: flex;
     justify-content: space-evenly;
@@ -114,7 +116,7 @@ img {
     color: darkblue;
 }
 body {
-    background-color: slategray;
+    background-color: sandybrown;
 }
 @media screen and (max-width: 800px) {
     body {
