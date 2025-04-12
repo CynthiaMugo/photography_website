@@ -41,24 +41,25 @@ img {
     height: 550px;
 }
 .column {
-    border: 1px solid darkblue;
-    padding: 50px;
+    border: px solid darkblue;
+    padding: 70px;
     margin: 20px;
 }
 .column img{
     float: left;
     margin: 20px;
-    width: 400px;
+    width: 350px;
     height: 350px;
     border-radius: 50%; 
 }
 .column p {
     font-size: 25px;
+    font-style: italic;
 }
 .form {
     margin: px;
-    align-items: center;
+    a;
 }
 .footer {
-    margin-top: 1550px;
+    margin-top: px;
 }
