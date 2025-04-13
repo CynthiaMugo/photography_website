@@ -119,7 +119,7 @@ img {
 body {
     background-color: antiquewhite;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1200px) {
     body {
         background-color: ghostwhite;
         color: black;
